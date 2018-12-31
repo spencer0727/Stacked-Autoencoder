@@ -1,15 +1,12 @@
-# This piece of software is bound by The MIT License (MIT)
-# Copyright (c) 2014 Siddharth Agrawal
-# Code written by : Siddharth Agrawal
-# Email ID : siddharth.950@gmail.com
 
 import struct
 import array
-import numpy
+import numpy as np
 import math
 import time
 import scipy.io
 import scipy.optimize
+import tensorflow as tf 
 
 ###########################################################################################
 """ Returns elementwise sigmoid output of input array """
