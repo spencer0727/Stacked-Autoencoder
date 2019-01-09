@@ -9,4 +9,3 @@ Running the code:
 -> You should get two text outputs as follows
 -> The first one should say 'Accuracy after greedy training : 0.87', which signifies an accuracy of 87%
 -> The second one should say 'Accuracy after finetuning : 0.97', which signifies an accuracy of 97%
--> The code takes about 150 minutes to execute on an i3 processor
